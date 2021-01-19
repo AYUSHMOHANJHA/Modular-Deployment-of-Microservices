@@ -4,7 +4,7 @@
   <tr>
     <th>
         <a href="https://www.consul.io/">
-            <img src="https://www.pikpng.com/pngl/m/430-4308572_consul-logo-hashicorp-consul-logo-clipart.png" alt="Consul" />
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/consul-3-logo-png-transparent.png" alt="Consul" />
         </a>
     </th>
     <th>
@@ -19,7 +19,7 @@
     </th>
     <th>
         <a href="https://grafana.com/">
-            <img src="https://banner2.cleanpng.com/20181116/ruu/kisspng-grafana-scalable-vector-graphics-application-softw-5bef3c66c4b5f5.0689917515424052228057.jpg" alt="Grafana" />
+            <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" alt="Grafana" />
         </a>
     </th>
     <th>
