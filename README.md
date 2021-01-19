@@ -2,9 +2,9 @@
 <br/><br/><br/><br/>
 <table style="width:100%;">
   <tr style="width:100%;height:100px">
-    <th style="width:100%;height:100px">
+    <th style="width:100%;height:10px">
         <a href="https://www.consul.io/">
-            <img src="https://cdn.freebiesupply.com/logos/large/2x/consul-3-logo-png-transparent.png" alt="Consul" />
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/consul-3-logo-png-transparent.png" style= "height:100px;width:100px"alt="Consul" />
         </a>
     </th>
     <th>
