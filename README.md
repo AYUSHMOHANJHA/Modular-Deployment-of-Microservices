@@ -31,8 +31,14 @@
 </table>
 <ol>
   <li>Project Description
-        <p>Worked on Modular Deployment of Micro-Services to build an automated CI/CD infrastructure solution with the use of efficient and cost effective tools and services available</p>
-  </li>
+        <p>Hi 👋, This Project is about Modular Deployment of Micro-Services Using Kubernetes ,Consul, Prometheus and Grafana .
+        We are going to Build and Deploy a simple, multi-tier web application using Kubernetes and Docker. This application consists of the following components:
+        <ul>
+        <li>A single-instance Redis master to store guestbook entries</li>
+        <li>Multiple replicated Redis instances to serve reads</li>
+        <li>Multiple web frontend instances</li>
+        </ul>
+        </p>  </li>
   <li>Tools and Technology
     <ul>
         <li><a href="https://helm.sh/">Helm</a></li>
