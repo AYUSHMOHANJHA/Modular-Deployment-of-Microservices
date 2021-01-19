@@ -1,6 +1,6 @@
 <h1 align="center">Modular-Deployment-of-Microservices</h1>
-<br/><br/><br/><br/>
-<table width="100%" align="center" style="display:none;">
+<br/>
+<table width="100%" align="center" style="border-color:transparent">
   <tr>
     <th>
         <a href="https://www.consul.io/">
