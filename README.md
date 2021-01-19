@@ -1,4 +1,19 @@
 <h1 align="center">Modular-Deployment-of-Microservices</h1>
+<br/><br/><br/><br/>
+
+<ol>
+  <li>Description
+        <p>Worked on Modular Deployment of Micro-Services to build an automated CI/CD infrastructure solution with the use of efficient and cost effective tools and services available</p>
+  </li>
+  <li>Technical Requirements
+        <ol>
+            <li>K8s</li>
+            <li>Helm</li>
+            <li>Consul</li>
+        </ol>
+  </li>
+  <li>Conclusion</li>
+</ol> 
 <table style="width:100%">
   <tr>
     <th><img src="https://helm.sh/img/helm.svg"alt="helm" /></th>
@@ -8,4 +23,4 @@
     <th><a href="https://kubernetes.io/"><img src="https://assets.stickpng.com/images/58481585cef1014c0b5e4971.png" alt="kubernetes" /></a> </th>
   </tr>
 </table>
-Worked on Modular Deployment of Micro-Services to build an automated CI/CD infrastructure solution with the use of efficient and cost effective tools and services available
+
