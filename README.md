@@ -14,7 +14,7 @@
     </th>
     <th>
         <a href="https://kubernetes.io/">
-            <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png"  alt="Kubernetes" />
+            <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png"  alt="Kubernetes" />
         </a>
     </th>
     <th>
