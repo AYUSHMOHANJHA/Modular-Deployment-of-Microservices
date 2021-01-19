@@ -4,27 +4,27 @@
   <tr style="width:100%;height:100px">
     <th style="width:100%;height:10px">
         <a href="https://www.consul.io/">
-            <img src="https://cdn.freebiesupply.com/logos/large/2x/consul-3-logo-png-transparent.png" height="70px" width="100px" alt="Consul" />
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/consul-3-logo-png-transparent.png" height="60px" width="90px" alt="Consul" />
         </a>
     </th> 
     <th>
         <a href="https://helm.sh/">
-            <img src="https://helm.sh/img/helm.svg" height="100px" width="150px" alt="Helm" />
+            <img src="https://helm.sh/img/helm.svg" height="60px" width="90px"  alt="Helm" />
         </a>
     </th>
     <th>
         <a href="https://kubernetes.io/">
-            <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" height="100px" width="150px" alt="Kubernetes" />
+            <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" height="60px" width="90px" alt="Kubernetes" />
         </a>
     </th>
     <th>
         <a href="https://grafana.com/">
-            <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" height="100px" width="150px" alt="Grafana" />
+            <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" height="60px" width="90px"  alt="Grafana" />
         </a>
     </th>
     <th>
         <a href="https://prometheus.io/">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" height="100px" width="150px" alt="Prometheus" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" height="60px" width="90px"  alt="Prometheus" />
         </a>
     </th>
   </tr>
