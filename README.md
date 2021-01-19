@@ -31,8 +31,7 @@
 </table>
 <ol>
   <li>Project Description
-        <p>Hi 👋, This Project is about Modular Deployment of Micro-Services Using Kubernetes ,Consul, Prometheus and Grafana .
-        We are going to Build and Deploy a simple, multi-tier web application using Kubernetes and Docker. This application consists of the following components:
+        <p>Hi 👋, This Project is about Modular Deployment of Micro-Services.We are going to Build, Deploy and monitor a simple, multi-tier web application using Kubernetes, Consul, Prometheus, Grafana and Docker. This application consists of the following components:
         <ul>
         <li>A single-instance Redis master to store guestbook entries</li>
         <li>Multiple replicated Redis instances to serve reads</li>
