@@ -8,7 +8,7 @@
   <li>Tools and Technology
     <ul>
         <li>Helm</li>
-        <li>Kubernetes</li>
+        <li><a href="https://kubernetes.io/">Kubernetes</a></li>
         <li>Consul</li>
         <li>Prometheus</li>
         <li>Grafana</li>
