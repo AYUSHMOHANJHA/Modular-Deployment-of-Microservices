@@ -1,7 +1,7 @@
 <h1 align="center">Modular-Deployment-of-Microservices</h1>
 <br/><br/><br/><br/>
-<table style="width:100%;">
-  <tr style="width:100%">
+<table width="100%">
+  <tr>
     <th>
         <a href="https://www.consul.io/">
             <img src="https://cdn.freebiesupply.com/logos/large/2x/consul-3-logo-png-transparent.png" height="60px" width="90px" alt="Consul" />
