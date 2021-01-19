@@ -5,12 +5,14 @@
   <li>Description
         <p>Worked on Modular Deployment of Micro-Services to build an automated CI/CD infrastructure solution with the use of efficient and cost effective tools and services available</p>
   </li>
-  <li>Technical Requirements
-        <ol>
-            <li>K8s</li>
-            <li>Helm</li>
-            <li>Consul</li>
-        </ol>
+  <li>Tools and Technology
+    <ul>
+        <li>Helm</li>
+        <li>Kubernetes</li>
+        <li>Consul</li>
+        <li>Prometheus</li>
+        <li>Grafana</li>
+    </ul>
   </li>
   <li>Conclusion</li>
 </ol> 
