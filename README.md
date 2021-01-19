@@ -7,11 +7,11 @@
   </li>
   <li>Tools and Technology
     <ul>
-        <li>Helm</li>
+        <li><a href="https://kubernetes.io/">Helm</a></li>
         <li><a href="https://kubernetes.io/">Kubernetes</a></li>
-        <li>Consul</li>
-        <li>Prometheus</li>
-        <li>Grafana</li>
+        <li><a href="https://kubernetes.io/">Consul</a></li>
+        <li><a href="https://kubernetes.io/">Prometheus</a></li>
+        <li><a href="https://kubernetes.io/">Grafana</a></li>
     </ul>
   </li>
   <li>Conclusion</li>
