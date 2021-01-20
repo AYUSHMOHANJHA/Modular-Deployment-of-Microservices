@@ -53,8 +53,9 @@
         <ul>
             <li><b>Microservice Creation</b>
                 <ul><p>First module is about creation of microsevices. Basically we use two tier application which has backend and frontend. Counting microservices will work as a backend microservice and dashboard microservice will work as a frontend. The main application image will be pulled from dockerhub which is provided by hashicorp</p>
-                <li><b>Input:</b></li>
-                <li><b>Processing:</b></li>
+                <li><b>Input: Write microservice configuration file, mostly to deploy any micorservice in kubernetes cluster we need two config file(.yaml) file one for deployment and other or services . we can do both in one(not recommended).</b></li>
+                <li><b>Processing: </b><p>after writing all config(.yaml) file , create a helm chart.And install that helm chart. Helm will take care of everything for kubernetes pods, replica set as defined in config file.
+                </p></li>
                 <li><b>Output:</b></li>
                 </ul>
             </li>
