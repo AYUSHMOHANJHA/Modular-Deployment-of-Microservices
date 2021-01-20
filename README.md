@@ -31,7 +31,7 @@
 </table>
 <ol>
   <li>Project Description
-        <p>Hi 👋, This Project is about Modular Deployment of Micro-Services.We are going to Build, Deploy and monitor a simple, multi-tier web application using Kubernetes, Consul, Prometheus, Grafana and Docker. This application consists of the following components:
+        <p>Hi 👋, This Project is about Modular Deployment of Micro-Services.We are going to Build, Deploy and Monitor a simple, multi-tier web application using Kubernetes, Consul, Prometheus, Grafana and Docker. This application consists of the following components:
         <ul>
         <li>A single-instance Redis master to store guestbook entries</li>
         <li>Multiple replicated Redis instances to serve reads</li>
@@ -47,7 +47,35 @@
         <li><a href="https://grafana.com/">Grafana</a></li>
     </ul>
   </li>
-  <li>Conclusion</li>
+  <li>Modules
+    <ul>
+        <li><p>The project includes three modules for Modular Deployment of Microservices. The modules are Microservices Creation, Service Discovery, Monitoring.</p>
+        <ul>
+            <li><b>Microservice Creation</b>
+                <ul><p>First module is about creation of microsevices. Basically we use two tier application which has backend and frontend. Counting microservices will work as a backend microservice and dashboard microservice will work as a frontend. The main application image will be pulled from dockerhub which is provided by hashicorp</p>
+                <li><b>Input:</b></li>
+                <li><b>Processing:</b></li>
+                <li><b>Output:</b></li>
+                </ul>
+            </li>
+            <li><b>Service Discovery</b>
+                <ul><p>First module is about creation of microsevices. Basically we use two tier application which has backend and frontend. Counting microservices will work as a backend microservice and dashboard microservice will work as a frontend. The main application image will be pulled from dockerhub which is provided by hashicorp</p>
+                <li><b>Input:</b></li>
+                <li><b>Processing:</b></li>
+                <li><b>Output:</b></li>
+                </ul>
+            </li>
+            <li><b>Monitoring</b>
+                <ul><p>First module is about creation of microsevices. Basically we use two tier application which has backend and frontend. Counting microservices will work as a backend microservice and dashboard microservice will work as a frontend. The main application image will be pulled from dockerhub which is provided by hashicorp</p>
+                <li><b>Input:</b></li>
+                <li><b>Processing:</b></li>
+                <li><b>Output:</b></li>
+                </ul>
+            </li>
+        </ul>
+        </li>
+    </ul>
+  </li>
 </ol> 
 
 
